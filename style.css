@@ -95,6 +95,10 @@ body {
     font-weight: 700;
 }
 
+.p-date{
+    padding-top: 15px;
+}
+
 .user-details img {
     width: 32px;
     height: 32px;
